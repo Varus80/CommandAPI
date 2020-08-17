@@ -1,0 +1,29 @@
+*.swp 
+*.*~ 
+project.lock.json 
+.DS_Store 
+*.pyc 
+# Visual Studio Code 
+.VS Code
+
+# User-specific files
+*.Studio
+*.User
+*.userosscacheS
+*.sln.docstates
+
+#Build Results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+build/
+bld/
+[Bb]in/
+msbuild.log
+msbuild.err
+msbuild.wrn
+
+.vs/
